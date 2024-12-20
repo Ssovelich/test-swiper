@@ -1,0 +1,14 @@
+.swiper {
+  width: 1000px;
+  height: 800px;
+}
+.swiper-slide {
+}
+.img {
+  width: 300px;
+  height: 500px;
+}
+.swiper-pagination-bullet {
+  --swiper-theme-color: #ffac20;
+  --swiper-pagination-bullet-width: 15px;
+}
